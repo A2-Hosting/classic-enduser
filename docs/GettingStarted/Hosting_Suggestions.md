@@ -12,6 +12,7 @@ Below are also a few suggestions for low-cost shared web hosts that offer the se
 
 Others follow in alphabetical order:
 
+-   A2 Hosting: <https://www.a2hosting.com/omeka-hosting>
 -   Academic AMIs on Amazon: <http://academicami.org/>
 -   AcuGIS: <http://www.acugis.com/>
 -   Cultural Hosting: <https://culturalhosting.com> a bilingual (Spanish and English) hosting company for cultural heritage organizations, based in Spain.
